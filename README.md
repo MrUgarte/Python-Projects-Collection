@@ -9,12 +9,12 @@ A collection of Python projects showcasing automation, data processing, and more
 ### 1. **WhatsApp Message Automation**
    - **Purpose**: Automate sending messages on WhatsApp Web, including optional images.
    - **Key Libraries**: `pandas`, `pyautogui`
-   - [Details & Usage](whatsapp_automation/README.md)
+   - [Details & Usage](WspAutoPy/README.md)
 
 ### 2. **Mouse Position Tracker**
    - **Purpose**: Display and track the real-time position of the mouse on-screen.
    - **Key Libraries**: `pyautogui`, `keyboard`
-   - [Details & Usage](mouse_tracker/README.md)
+   - [Details & Usage](PositionCursorPy/README.md)
 
 > **More projects coming soon!** Stay tuned for updates. 
 
