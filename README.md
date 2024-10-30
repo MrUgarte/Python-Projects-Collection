@@ -24,8 +24,8 @@ A collection of Python projects showcasing automation, data processing, and more
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/python-projects.git
-   cd python-projects
+   git clone https://github.com/MrUgarte/Python-Projects-Collection.git
+   cd Python-Projects-Collection
    ```
 
 2. **Install dependencies**  
