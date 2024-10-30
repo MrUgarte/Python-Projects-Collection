@@ -16,6 +16,11 @@ A collection of Python projects showcasing automation, data processing, and more
    - **Key Libraries**: `pyautogui`, `keyboard`
    - [Details & Usage](PositionCursorPy/README.md)
 
+### 3. **Currency Converter CLI**
+   - **Purpose**: This project is a command line application that obtains and displays currency exchange rates.
+   - **Key Libraries**: `request`, `pandas`, `beautifulsoup4`
+   - [Details & Usage](ExChangesPy/README.md)
+
 > **More projects coming soon!** Stay tuned for updates. 
 
 ---
